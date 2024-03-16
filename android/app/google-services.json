@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618201420851",
+    "project_id": "news-e7dc7",
+    "storage_bucket": "news-e7dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618201420851:android:1011ddc62b5a3ae8e5bf46",
+        "android_client_info": {
+          "package_name": "com.app.shortnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqfUKQg4hU9oM6-qfdV-YSb7ogdOJSgFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
